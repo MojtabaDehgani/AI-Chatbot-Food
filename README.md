@@ -396,11 +396,11 @@ The repository includes visualizations of the main LangGraph workflows.
 
 ---
 
-# 📽️ Demo
+## 📽️ Demo
 
-A demonstration video of the ChatFood application is included in the repository.
+A short demonstration of the ChatFood application:
 
-**Demo:** [ChatFood Demo Video](ChatFood-Mobin.mp4)
+[▶️ Watch ChatFood Demo](./ChatFood-Mobin.mp4)
 
 ---
 
