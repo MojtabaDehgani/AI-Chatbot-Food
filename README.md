@@ -400,7 +400,7 @@ The repository includes visualizations of the main LangGraph workflows.
 
 A demonstration video of the ChatFood application is included in the repository.
 
-**Demo:** [ChatFood Demo Video](./ChatFood-Mobin.mp4)
+**Demo:** [ChatFood Demo Video](ChatFood-Mobin.mp4)
 
 ---
 
